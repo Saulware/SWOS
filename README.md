@@ -1,4 +1,4 @@
 SWOS
 ====
 
-SWOS CODE
+This is the SWOS (Saulware OS) code
